@@ -5,7 +5,7 @@
 ### Membuat validasi pada html dan css dengan javascript
 Berikut prosesnya:
 
-#Pertama kita buat laman htmlnya
+# Pertama kita buat laman htmlnya
 
     <!DOCTYPE html>
     <html lang="en">
@@ -41,7 +41,7 @@ Berikut prosesnya:
 			</div>
 	</div>
  
-#maka hasilnya akan seperti ini :
+# maka hasilnya akan seperti ini :
 ![Gambar](screenshot/ss1.png)
 
 masukan 
@@ -62,7 +62,7 @@ Dan tambahkan script dibawah </body>
 	}
     </script>
 
-#Agar tampilannya lebih menarik, tambahkan CSSnya
+# Agar tampilannya lebih menarik, tambahkan CSSnya
 
 body {
   background: #0f2238;
@@ -117,8 +117,8 @@ textarea {
     width: 89px;
 }
 
-#Berikut hasil akhirnya  :
+# Berikut hasil akhirnya  :
 ![Gambar](screenshot/ss2.png)
 
-#Jadi jika kita tidak lengkap saat mengisi data, maka ada pemberitahuan yang muncul.
+# Jadi jika kita tidak lengkap saat mengisi data, maka ada pemberitahuan yang muncul.
 ![Gambar](screenshot/ss3.png)
